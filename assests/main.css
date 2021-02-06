@@ -1,0 +1,43 @@
+#header{
+border:2px solid pink;
+width:100%;
+background-color:Aqua;
+height:30%;
+}
+#foter{
+border:2px solid pink;
+width:100%;
+background-color:Beige;
+height:20%;
+clear:both;
+}
+#scroll{
+border:2px solid blue:;
+width:100%;
+background-color:Bisque;
+height:65%;
+line-height:80%;
+}
+img{
+padding:10px;
+float:left;
+} 
+p{
+float:right;
+}
+h1{
+clear:both;
+padding:2px;
+color:pink;
+}
+#links{
+float:left;
+}
+#intro{
+color:brown;
+align:left;
+}
+h3{
+color:red;
+padding:2px;
+}
